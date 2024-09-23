@@ -9,6 +9,7 @@ if da=="да":
     print((a-b)>0)
 else:
     print("Ну и пока!")
+print("Шутка, хорошего дня!")
 
 # коммит 1 задание 9б
 
@@ -16,4 +17,5 @@ else:
 
 #commit 4
 #commit 4
+#
 #commit 5
